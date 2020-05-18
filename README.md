@@ -1,2 +1,2 @@
-# myweb
-my website stuff.
+- stuff
+- yeah just stuff
